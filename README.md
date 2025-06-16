@@ -21,9 +21,9 @@ This repository contains my daily practice for Data Structures and Algorithms us
 
 ### Learning Visuals
 
-(assets/screenshot/patternsigma1.png)
+(./assets/screenshot/patternsigma1.png)
 
-(assets/screenshot/patternsigma2.png)
+(./assets/screenshot/patternsigma2.png)
 
 ## 🚀 Upcoming Topics
 
