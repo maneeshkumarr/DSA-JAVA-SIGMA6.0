@@ -23,7 +23,6 @@ This repository contains my daily practice for Data Structures and Algorithms us
 <img src="/Patterns/assets/screenshot/patternsigma1.png" alt="Pattern Sigma 1" width="300" />
 <img src="/Patterns/assets/screenshot/patternsigma2.png" alt="Pattern Sigma 2" width="300" />
 
-
 ## 🚀 Upcoming Topics
 
 As I move forward, I will add:
