@@ -19,6 +19,12 @@ This repository contains my daily practice for Data Structures and Algorithms us
 - Hollow Rhombus
 - Diamond Pattern
 
+### Learning Visuals
+
+(assets/screenshots/patternsigma1.png)
+
+(assets/screenshots/patternsigma2.png)
+
 ## 🚀 Upcoming Topics
 
 As I move forward, I will add:
