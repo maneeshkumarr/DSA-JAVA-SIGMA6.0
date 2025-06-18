@@ -22,7 +22,7 @@ public class MaxSubarrayKadane {
         // Example input
         int[] arr = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
 
-        // Output result
+        // Output resultt
         System.out.println("Maximum Subarray Sum: " + maxSubarraySum(arr));
     }
 }
