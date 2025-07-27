@@ -1,4 +1,4 @@
-package String;
+
 public class RegexPalindrome {
     public static void main(String[] args) {
         String s = "A man, a plan, a canal: Panama";
@@ -19,5 +19,6 @@ public class RegexPalindrome {
         return s.equals(reversed);
     }
 }
+
 
 

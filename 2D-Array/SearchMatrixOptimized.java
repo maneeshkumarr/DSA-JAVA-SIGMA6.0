@@ -7,11 +7,10 @@
  */
 
 public class SearchMatrixOptimized {
-
     public static boolean searchMatrix(int[][] matrix, int target) {
         int row = 0;
         int col = matrix[0].length - 1;  // Start at top-right
-
+        
         while (row < matrix.length && col >= 0) {
             if (matrix[row][col] == target) {
                 return true;
@@ -46,4 +45,6 @@ public class SearchMatrixOptimized {
         boolean found = searchMatrix(matrix, target);
         System.out.println("Is target found? " + found); // Output: true
     }
-}
+  }
+
+

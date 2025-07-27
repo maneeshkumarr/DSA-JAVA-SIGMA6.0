@@ -1,5 +1,3 @@
-
-
 // PowerOfTwo.java
 // Problem: Check if a given number is a power of 2
 
